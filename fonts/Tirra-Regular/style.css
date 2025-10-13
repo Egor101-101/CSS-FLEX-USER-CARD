@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tirra';
+    src: local('Tirra Regular'), local('Tirra-Regular'),
+        url('Tirra-Regular.woff2') format('woff2'),
+        url('Tirra-Regular.woff') format('woff'),
+        url('Tirra-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
